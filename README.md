@@ -1,0 +1,2 @@
+- Developed an AI model trained on a dataset of a million songs to generate lyrics in the style of a specific artist
+- Evaluated RNN, GRU, and LSTM models with multinomial, top-k, and top-p sampling to optimize lyric generation
